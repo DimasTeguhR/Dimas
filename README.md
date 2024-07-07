@@ -1,7 +1,5 @@
 # Hello, I'm Dimas Teguh Ramadhani 👋
 
-![GitHub Profile](https://github-readme-stats.vercel.app/api?username=dimasteguhr&show_icons=true&theme=radical)
-
 ## About Me
 
 I am a student passionate about Software Development and Data Analysis. I love learning new things and sharing knowledge with others.
